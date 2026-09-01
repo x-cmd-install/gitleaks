@@ -1,0 +1,61 @@
+about:
+  description: Find secrets with Gitleaks 🔑
+  license: MIT
+  homepage: https://gitleaks.io
+  head: b58d3f1
+  archived: false
+  latestVersion: v8.30.1
+  collectedAt: 2026-09-01T05:45:06Z
+timeline:
+  created: 2018-01-27
+  lastCommit: 2026-07-22
+  lastRelease: 2026-03-21
+popularity:
+  star: 29044
+  watcher: 177
+  fork: 2224
+  release: 190
+  contributor: 216
+  pullRequest: 414
+  issue: 982
+language:
+  Go: 693202
+  Go Template: 137825
+  Shell: 2496
+  Makefile: 831
+  Python: 769
+  Dockerfile: 463
+totalLine: 835586
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 0
+    openPR: 20
+    closedIssue: 0
+    openIssue: 4
+    commit: 0
+  last90d:
+    since: 2026-06-03
+    release: 0
+    mergedPR: 4
+    openPR: 62
+    closedIssue: 4
+    openIssue: 19
+    commit: 3
+  last180d:
+    since: 2026-03-05
+    release: 1
+    mergedPR: 9
+    openPR: 109
+    closedIssue: 9
+    openIssue: 41
+    commit: 13
+  last360d:
+    since: 2025-09-06
+    release: 4
+    mergedPR: 20
+    openPR: 133
+    closedIssue: 21
+    openIssue: 62
+    commit: 28
