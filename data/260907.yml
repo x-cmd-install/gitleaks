@@ -5,15 +5,15 @@ about:
   head: b58d3f1
   archived: false
   latestVersion: "v8.30.1"
-  collectedAt: 2026-09-07T04:21:07Z
+  collectedAt: 2026-09-07T20:07:30Z
 timeline:
   created: 2018-01-27
   lastCommit: 2026-07-22
   lastRelease: 2026-03-21
 popularity:
-  star: 29137
+  star: 29154
   watcher: 181
-  fork: 2228
+  fork: 2229
   release: 190
   contributor: 216
   pullRequest: 1115
@@ -84,7 +84,7 @@ total:
   commit: 1291
 ---
 path: /home/runner/.x-repo/github.com/gitleaks/gitleaks
-collectedAt: 2026-09-07T04:21:09Z
+collectedAt: 2026-09-07T20:07:32Z
 loc:
   Go:
     code: 17830
@@ -145,35 +145,35 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:21:10+00:00
+  collectedAt: 2026-09-07T20:07:33+00:00
   platform:
     darwin/arm64:
       name:  gitleaks_8.30.1_darwin_arm64.tar.gz
       url:   https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_darwin_arm64.tar.gz
-      size:  7897593
-      score: 145
+      size:  0
+      score: 143
     darwin/amd64:
       name:  gitleaks_8.30.1_darwin_x64.tar.gz
       url:   https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_darwin_x64.tar.gz
-      size:  8359235
-      score: 45
+      size:  0
+      score: 43
     linux/arm64:
       name:  gitleaks_8.30.1_linux_arm64.tar.gz
       url:   https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_linux_arm64.tar.gz
-      size:  7601421
-      score: 145
+      size:  0
+      score: 143
     linux/amd64:
       name:  gitleaks_8.30.1_linux_x64.tar.gz
       url:   https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_linux_x64.tar.gz
-      size:  8230402
-      score: 45
+      size:  0
+      score: 43
     win/arm64:
       name:  gitleaks_8.30.1_windows_arm64.zip
       url:   https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_windows_arm64.zip
-      size:  7701820
-      score: 45
+      size:  0
+      score: 43
     win/amd64:
       name:  gitleaks_8.30.1_windows_x64.zip
       url:   https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_windows_x64.zip
-      size:  8438883
-      score: 45
+      size:  0
+      score: 43
