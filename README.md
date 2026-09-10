@@ -23,11 +23,26 @@ x install gitleaks
 - **Latest**: `v8.30.1` (2026-03-21)
 - **Last commit**: 2026-07-22
 - **Assets in release**: 11
-- **Published**: 2026-03-21T02:17:58Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [gitleaks_8.30.1_checksums.txt](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_checksums.txt) | 999 B | `other` |
+| [gitleaks_8.30.1_darwin_arm64.tar.gz](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_darwin_arm64.tar.gz) | 7.5 MiB | `native/darwin/arm64` |
+| [gitleaks_8.30.1_darwin_x64.tar.gz](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_darwin_x64.tar.gz) | 8.0 MiB | `native/darwin/x64` |
+| [gitleaks_8.30.1_linux_arm64.tar.gz](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_linux_arm64.tar.gz) | 7.2 MiB | `native/linux/arm64` |
+| [gitleaks_8.30.1_linux_armv6.tar.gz](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_linux_armv6.tar.gz) | 7.2 MiB | `native/linux/arm` |
+| [gitleaks_8.30.1_linux_armv7.tar.gz](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_linux_armv7.tar.gz) | 7.2 MiB | `native/linux/arm` |
+| [gitleaks_8.30.1_linux_x32.tar.gz](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_linux_x32.tar.gz) | 7.3 MiB | `native/unknown` |
+| [gitleaks_8.30.1_linux_x64.tar.gz](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_linux_x64.tar.gz) | 7.8 MiB | `native/unknown` |
+| [gitleaks_8.30.1_windows_arm64.zip](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_windows_arm64.zip) | 7.3 MiB | `native/win/arm64` |
+| [gitleaks_8.30.1_windows_x32.zip](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_windows_x32.zip) | 7.5 MiB | `native/win/x64` |
+| [gitleaks_8.30.1_windows_x64.zip](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_windows_x64.zip) | 8.0 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 29,192 · **Forks**: 2,229 · **Open issues**: 983 · **Contributors**: 216
+- **Stars**: 29,210 · **Forks**: 2,231 · **Open issues**: 983 · **Contributors**: 216
 
 ## Totals (cumulative)
 
@@ -58,8 +73,8 @@ Total: **21,659** lines of code across **271** files in the top 5 languages.
 Install metadata for gitleaks lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gitleaks` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/gitleaks.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/gitleaks.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:24:26Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:56:27Z._

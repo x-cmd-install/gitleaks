@@ -4,7 +4,7 @@
 
 Find secrets with Gitleaks 🔑
 
-![gitleaks](https://repo.x-cmd.io/gitleaks.svg)
+![gitleaks](https://repo.x-cmd.io/gitleaks.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,26 @@ x install gitleaks
 - **最新版本**: `v8.30.1` (2026-03-21)
 - **最近提交**: 2026-07-22
 - **Release 含资产**: 11 个
-- **发布时间**: 2026-03-21T02:17:58Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [gitleaks_8.30.1_checksums.txt](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_checksums.txt) | 999 B | `other` |
+| [gitleaks_8.30.1_darwin_arm64.tar.gz](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_darwin_arm64.tar.gz) | 7.5 MiB | `native/darwin/arm64` |
+| [gitleaks_8.30.1_darwin_x64.tar.gz](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_darwin_x64.tar.gz) | 8.0 MiB | `native/darwin/x64` |
+| [gitleaks_8.30.1_linux_arm64.tar.gz](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_linux_arm64.tar.gz) | 7.2 MiB | `native/linux/arm64` |
+| [gitleaks_8.30.1_linux_armv6.tar.gz](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_linux_armv6.tar.gz) | 7.2 MiB | `native/linux/arm` |
+| [gitleaks_8.30.1_linux_armv7.tar.gz](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_linux_armv7.tar.gz) | 7.2 MiB | `native/linux/arm` |
+| [gitleaks_8.30.1_linux_x32.tar.gz](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_linux_x32.tar.gz) | 7.3 MiB | `native/unknown` |
+| [gitleaks_8.30.1_linux_x64.tar.gz](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_linux_x64.tar.gz) | 7.8 MiB | `native/unknown` |
+| [gitleaks_8.30.1_windows_arm64.zip](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_windows_arm64.zip) | 7.3 MiB | `native/win/arm64` |
+| [gitleaks_8.30.1_windows_x32.zip](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_windows_x32.zip) | 7.5 MiB | `native/win/x64` |
+| [gitleaks_8.30.1_windows_x64.zip](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_windows_x64.zip) | 8.0 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 29,192 · **Fork**: 2,229 · **开放 issue**: 983 · **贡献者**: 216
+- **Star**: 29,210 · **Fork**: 2,231 · **开放 issue**: 983 · **贡献者**: 216
 
 ## 累计统计
 
@@ -62,4 +77,4 @@ gitleaks 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:24:27Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:56:27Z._
