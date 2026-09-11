@@ -1,18 +1,15 @@
-- repo: raspbian_testing
-  subrepo: main
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
   srcname: gitleaks
-  binnames:
-    - gitleaks
-    - golang-github-gitleaks-gitleaks-dev
   visiblename: gitleaks
-  version: 8.26.0
-  origversion: 8.26.0-1
+  version: 8.16.0
+  origversion: 8.16.0-bp156.1.14
   status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - foka@debian.org
+  summary: Protect and discover secrets using Gitleaks
+  licenses:
+    - MIT
   categories:
-    - misc
+    - Unspecified
 - repo: alpine_edge
   subrepo: testing
   srcname: gitleaks
@@ -314,17 +311,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: parabola
-  subrepo: extra
-  srcname: gitleaks
-  binname: gitleaks
-  visiblename: gitleaks
-  version: 8.30.1
-  origversion: 8.30.1-1
-  status: newest
-  summary: Audit Git repos for secrets and keys
-  licenses:
-    - MIT
 - repo: fedora_42
   subrepo: updates
   srcname: gitleaks
@@ -336,6 +322,22 @@
   version: 8.29.0
   origversion: 8.29.0-1.fc42
   status: outdated
+  summary: Scan git repos (or files) for secrets using regex and entropy
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND CC0-1.0 AND ISC AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: gitleaks
+  binnames:
+    - gitleaks
+    - gitleaks-debuginfo
+    - gitleaks-debugsource
+  visiblename: gitleaks
+  version: 8.28.0
+  origversion: 8.28.0-1.fc43
+  status: legacy
   summary: Scan git repos (or files) for secrets using regex and entropy
   licenses:
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND CC0-1.0 AND ISC AND MIT AND MPL-2.0
@@ -355,22 +357,6 @@
   summary: Scan git repos (or files) for secrets using regex and entropy
   licenses:
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
-- repo: fedora_43
-  subrepo: release
-  srcname: gitleaks
-  binnames:
-    - gitleaks
-    - gitleaks-debuginfo
-    - gitleaks-debugsource
-  visiblename: gitleaks
-  version: 8.28.0
-  origversion: 8.28.0-1.fc43
-  status: legacy
-  summary: Scan git repos (or files) for secrets using regex and entropy
-  licenses:
-    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND CC0-1.0 AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
 - repo: fedora_44
@@ -456,15 +442,6 @@
     - foka@debian.org
   categories:
     - misc
-- repo: scoop
-  subrepo: main
-  binname: gitleaks
-  visiblename: gitleaks
-  version: 8.30.1
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: macports
   srcname: security/gitleaks
   binname: gitleaks
@@ -580,18 +557,6 @@
     - christian@friedow.com
   licenses:
     - MIT
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: gitleaks
-  visiblename: gitleaks
-  version: 8.16.0
-  origversion: 8.16.0-bp156.1.14
-  status: outdated
-  summary: Protect and discover secrets using Gitleaks
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: gitleaks
@@ -611,6 +576,17 @@
     - MIT
   categories:
     - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: gitleaks
+  binname: gitleaks
+  visiblename: gitleaks
+  version: 8.30.1
+  origversion: 8.30.1-1
+  status: newest
+  summary: Audit Git repos for secrets and keys
+  licenses:
+    - MIT
 - repo: parrot
   subrepo: parrot/main
   srcname: gitleaks
@@ -667,6 +643,30 @@
     - foka@debian.org
   categories:
     - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: gitleaks
+  binnames:
+    - gitleaks
+    - golang-github-gitleaks-gitleaks-dev
+  visiblename: gitleaks
+  version: 8.26.0
+  origversion: 8.26.0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - foka@debian.org
+  categories:
+    - misc
+- repo: scoop
+  subrepo: main
+  binname: gitleaks
+  visiblename: gitleaks
+  version: 8.30.1
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: t2
   srcname: gitleaks
   visiblename: gitleaks
@@ -691,20 +691,6 @@
   maintainers:
     - gouranga.das.khulna@gmail.com
 - repo: ubuntu_24_04
-  subrepo: noble/universe
-  srcname: gitleaks
-  binnames:
-    - gitleaks
-  visiblename: gitleaks
-  version: 8.16.0
-  origversion: 8.16.0-1build1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - foka@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_24_04
   subrepo: noble-updates/universe
   srcname: gitleaks
   binnames:
@@ -715,6 +701,20 @@
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
+    - foka@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: gitleaks
+  binnames:
+    - gitleaks
+  visiblename: gitleaks
+  version: 8.16.0
+  origversion: 8.16.0-1build1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
     - foka@debian.org
   categories:
     - universe/misc
