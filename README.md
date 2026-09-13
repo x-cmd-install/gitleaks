@@ -38,7 +38,7 @@ Total: **21,659** lines of code across **271** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 29,248 · **Forks**: 2,232 · **Open issues**: 983 · **Contributors**: 216
+- **Stars**: 29,279 · **Forks**: 2,231 · **Open issues**: 983 · **Contributors**: 216
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **21,659** lines of code across **271** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 0 | 19 | 0 | 3 | 0 |
-| last60d | 2026-07-14 | 0 | 1 | 51 | 1 | 11 | 1 |
-| 90d | 2026-06-14 | 0 | 3 | 60 | 2 | 17 | 3 |
-| last180d | 2026-03-16 | 1 | 9 | 110 | 7 | 42 | 13 |
-| 360d | 2025-09-17 | 4 | 20 | 135 | 20 | 62 | 27 |
-| last720d | 2024-09-22 | 28 | 191 | 167 | 112 | 133 | 245 |
+| 30d | 2026-08-14 | 0 | 0 | 19 | 0 | 3 | 0 |
+| last60d | 2026-07-15 | 0 | 1 | 50 | 1 | 10 | 1 |
+| 90d | 2026-06-15 | 0 | 3 | 59 | 2 | 17 | 3 |
+| last180d | 2026-03-17 | 1 | 9 | 110 | 6 | 42 | 13 |
+| 360d | 2025-09-18 | 4 | 20 | 135 | 20 | 61 | 27 |
+| last720d | 2024-09-23 | 28 | 188 | 167 | 110 | 133 | 245 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for gitleaks lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:22:38Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:35:07Z._
