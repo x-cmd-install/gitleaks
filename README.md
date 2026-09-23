@@ -4,7 +4,7 @@
 
 Find secrets with Gitleaks 🔑
 
-[![x-cmd/install — gitleaks Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gitleaks.svg)](https://x-cmd.com/install/gitleaks)
+[![x-cmd/install — gitleaks Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/gitleaks.svg)](https://x-cmd.com/install/gitleaks)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **21,659** lines of code across **271** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 29,419 · **Forks**: 2,237 · **Open issues**: 985 · **Contributors**: 216
+- **Stars**: 29,437 · **Forks**: 2,239 · **Open issues**: 986 · **Contributors**: 216
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 697 · **Open PRs**: 213 · **Closed issues**: 717 · **Open issues**: 268 · **Commits**: 1291
+- **Releases**: 190 · **Merged PRs**: 697 · **Open PRs**: 214 · **Closed issues**: 717 · **Open issues**: 269 · **Commits**: 1291
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 17 | 0 | 5 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 42 | 0 | 11 | 0 |
-| 90d | 2026-06-24 | 0 | 2 | 55 | 2 | 17 | 2 |
-| last180d | 2026-03-26 | 0 | 8 | 115 | 6 | 40 | 11 |
-| 360d | 2025-09-27 | 4 | 18 | 141 | 19 | 62 | 26 |
-| last720d | 2024-10-02 | 27 | 178 | 171 | 105 | 133 | 235 |
+| 30d | 2026-08-24 | 0 | 0 | 18 | 0 | 6 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 39 | 0 | 12 | 0 |
+| 90d | 2026-06-25 | 0 | 2 | 56 | 2 | 17 | 2 |
+| last180d | 2026-03-27 | 0 | 8 | 117 | 6 | 41 | 11 |
+| 360d | 2025-09-28 | 4 | 18 | 143 | 19 | 63 | 26 |
+| last720d | 2024-10-03 | 27 | 178 | 172 | 105 | 134 | 235 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for gitleaks lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:37:59Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:33:50Z._
