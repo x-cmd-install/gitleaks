@@ -38,22 +38,22 @@ Total: **21,659** lines of code across **271** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 29,805 · **Forks**: 2,271 · **Open issues**: 991 · **Contributors**: 216
+- **Stars**: 29,825 · **Forks**: 2,272 · **Open issues**: 992 · **Contributors**: 216
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 697 · **Open PRs**: 220 · **Closed issues**: 718 · **Open issues**: 273 · **Commits**: 1291
+- **Releases**: 190 · **Merged PRs**: 697 · **Open PRs**: 220 · **Closed issues**: 718 · **Open issues**: 274 · **Commits**: 1291
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 0 | 15 | 1 | 8 | 0 |
-| last60d | 2026-08-10 | 0 | 0 | 34 | 1 | 11 | 0 |
-| 90d | 2026-07-11 | 0 | 1 | 62 | 2 | 18 | 1 |
-| last180d | 2026-04-12 | 0 | 8 | 117 | 7 | 44 | 11 |
-| 360d | 2025-10-14 | 4 | 17 | 146 | 20 | 67 | 26 |
-| last720d | 2024-10-19 | 23 | 159 | 175 | 96 | 134 | 216 |
+| 30d | 2026-09-10 | 0 | 0 | 15 | 1 | 9 | 0 |
+| last60d | 2026-08-11 | 0 | 0 | 32 | 1 | 12 | 0 |
+| 90d | 2026-07-12 | 0 | 1 | 62 | 2 | 19 | 1 |
+| last180d | 2026-04-13 | 0 | 8 | 117 | 7 | 45 | 11 |
+| 360d | 2025-10-15 | 4 | 16 | 145 | 20 | 67 | 26 |
+| last720d | 2024-10-20 | 23 | 155 | 175 | 96 | 134 | 215 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for gitleaks lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T05:53:55Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:36:20Z._
