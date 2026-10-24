@@ -33,27 +33,27 @@ Total: **21,659** lines of code across **271** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v8.30.1` (2026-03-21)
-- **Last commit**: 2026-07-22
+- **Last commit**: 2026-10-23
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 30,241 · **Forks**: 2,312 · **Open issues**: 998 · **Contributors**: 216
+- **Stars**: 30,279 · **Forks**: 2,315 · **Open issues**: 998 · **Contributors**: 216
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 697 · **Open PRs**: 232 · **Closed issues**: 718 · **Open issues**: 280 · **Commits**: 1291
+- **Releases**: 190 · **Merged PRs**: 698 · **Open PRs**: 232 · **Closed issues**: 718 · **Open issues**: 280 · **Commits**: 1293
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 22 | 0 | 11 | 0 |
-| last60d | 2026-08-24 | 0 | 0 | 40 | 1 | 17 | 0 |
-| 90d | 2026-07-25 | 0 | 0 | 61 | 1 | 23 | 0 |
-| last180d | 2026-04-26 | 0 | 8 | 127 | 6 | 50 | 11 |
-| 360d | 2025-10-28 | 4 | 15 | 156 | 19 | 71 | 22 |
-| last720d | 2024-11-02 | 22 | 130 | 186 | 90 | 140 | 184 |
+| 30d | 2026-09-24 | 0 | 0 | 21 | 0 | 11 | 0 |
+| last60d | 2026-08-25 | 0 | 1 | 38 | 1 | 17 | 1 |
+| 90d | 2026-07-26 | 0 | 1 | 60 | 1 | 23 | 1 |
+| last180d | 2026-04-27 | 0 | 9 | 127 | 6 | 50 | 12 |
+| 360d | 2025-10-29 | 4 | 16 | 156 | 19 | 70 | 23 |
+| last720d | 2024-11-03 | 22 | 130 | 186 | 90 | 139 | 186 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for gitleaks lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:31:56Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:21:57Z._
