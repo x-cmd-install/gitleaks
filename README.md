@@ -38,22 +38,22 @@ Total: **21,659** lines of code across **271** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 30,768 · **Forks**: 2,347 · **Open issues**: 1,004 · **Contributors**: 216
+- **Stars**: 30,849 · **Forks**: 2,356 · **Open issues**: 1,004 · **Contributors**: 216
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 698 · **Open PRs**: 251 · **Closed issues**: 719 · **Open issues**: 285 · **Commits**: 1293
+- **Releases**: 190 · **Merged PRs**: 698 · **Open PRs**: 252 · **Closed issues**: 719 · **Open issues**: 285 · **Commits**: 1293
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 34 | 0 | 12 | 0 |
-| last60d | 2026-09-09 | 0 | 1 | 46 | 2 | 20 | 1 |
-| 90d | 2026-08-10 | 0 | 1 | 65 | 2 | 23 | 1 |
-| last180d | 2026-05-12 | 0 | 9 | 136 | 6 | 51 | 12 |
-| 360d | 2025-11-13 | 3 | 16 | 175 | 19 | 72 | 23 |
-| last720d | 2024-11-18 | 22 | 122 | 203 | 86 | 140 | 182 |
+| 30d | 2026-10-11 | 0 | 0 | 34 | 0 | 12 | 0 |
+| last60d | 2026-09-11 | 0 | 1 | 47 | 2 | 20 | 1 |
+| 90d | 2026-08-12 | 0 | 1 | 64 | 2 | 23 | 1 |
+| last180d | 2026-05-14 | 0 | 9 | 131 | 6 | 48 | 10 |
+| 360d | 2025-11-15 | 3 | 15 | 176 | 19 | 72 | 21 |
+| last720d | 2024-11-20 | 22 | 122 | 204 | 86 | 139 | 181 |
 
 ## Release assets
 
@@ -71,6 +71,24 @@ Total: **21,659** lines of code across **271** files in the top 5 languages.
 | [gitleaks_8.30.1_windows_x32.zip](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_windows_x32.zip) | 7.5 MiB | `native/win/x64` |
 | [gitleaks_8.30.1_windows_x64.zip](https://github.com/gitleaks/gitleaks/releases/download/v8.30.1/gitleaks_8.30.1_windows_x64.zip) | 8.0 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **60** distros on [repology.org](https://repology.org/project/gitleaks). **22** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `8.26.0` | ⚠️ outdated |
+| Debian 14 | `8.26.0` | ⚠️ outdated |
+| Debian 13 | `8.16.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `8.16.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `8.16.0` | ⚠️ outdated |
+| Arch | `8.30.1` | ✅ latest |
+| Homebrew | `8.30.1` | ✅ latest |
+| Fedora rawhide | `8.30.1` | ✅ latest |
+| Nix unstable | `8.30.1` | ✅ latest |
+| Alpine edge | `8.30.1` | ✅ latest |
+| openSUSE Tumbleweed | `8.30.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for gitleaks lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gitleaks` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -80,4 +98,4 @@ Install metadata for gitleaks lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:47:36Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:02:25Z._
