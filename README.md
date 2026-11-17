@@ -38,22 +38,22 @@ Total: **21,659** lines of code across **271** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 31,066 · **Forks**: 2,383 · **Open issues**: 1,006 · **Contributors**: 215
+- **Stars**: 31,107 · **Forks**: 2,384 · **Open issues**: 1,006 · **Contributors**: 215
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 698 · **Open PRs**: 256 · **Closed issues**: 720 · **Open issues**: 286 · **Commits**: 1293
+- **Releases**: 190 · **Merged PRs**: 698 · **Open PRs**: 257 · **Closed issues**: 720 · **Open issues**: 286 · **Commits**: 1293
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 37 | 0 | 11 | 0 |
-| last60d | 2026-09-17 | 0 | 1 | 52 | 1 | 21 | 1 |
-| 90d | 2026-08-18 | 0 | 1 | 66 | 3 | 23 | 1 |
-| last180d | 2026-05-20 | 0 | 9 | 128 | 7 | 46 | 9 |
-| 360d | 2025-11-21 | 2 | 14 | 178 | 20 | 73 | 17 |
-| last720d | 2024-11-26 | 22 | 116 | 207 | 84 | 139 | 181 |
+| 30d | 2026-10-18 | 0 | 0 | 38 | 0 | 11 | 0 |
+| last60d | 2026-09-18 | 0 | 1 | 53 | 1 | 21 | 1 |
+| 90d | 2026-08-19 | 0 | 1 | 67 | 3 | 23 | 1 |
+| last180d | 2026-05-21 | 0 | 9 | 128 | 7 | 46 | 9 |
+| 360d | 2025-11-22 | 2 | 14 | 179 | 20 | 72 | 17 |
+| last720d | 2024-11-27 | 22 | 116 | 208 | 84 | 139 | 181 |
 
 ## Release assets
 
@@ -73,7 +73,7 @@ Total: **21,659** lines of code across **271** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **60** distros on [repology.org](https://repology.org/project/gitleaks). **22** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
+Reported by **61** distros on [repology.org](https://repology.org/project/gitleaks). **23** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -98,4 +98,4 @@ Install metadata for gitleaks lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:07:29Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:44:09Z._
